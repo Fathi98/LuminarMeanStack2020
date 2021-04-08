@@ -1,0 +1,20 @@
+#one{
+    margin-right: 60;
+}
+h2{
+    text-align: center;
+}
+.a1{
+   background-image: url(https://gp-assets-1.growthplug.com/cache/c6/13/c6133308ffce64757423894b1bc038e3.jpg);
+   text-align:center;
+   padding: 10vw;
+}
+.a1 img{
+	width: 50%;
+}
+.a1 h3{
+	font-size: 3vw;
+}
+.a2{
+	padding: 10vw 0vw;
+}
